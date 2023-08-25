@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devin DePina
 - 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning beautifulsoup library
+- 🌱 I’m currently learning HTML/CSS
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me devpinaa@gmail.com
 
